@@ -18,11 +18,17 @@ There are some key differences in weather in the month of June and December. I h
 - Both months' average temperatures are very close if not the same to the mean temperature for each month. We can make the conclusion that the temperature does not frequently go out from this range and that there are no outliars of weather points skewing the data.
     - Due to this, it is safe to assume that the temperature does not go through extremes in these two months.
 - The minimum temperature in June is 64 degrees while in December it is 56 degrees Fahrenheit. That is a large difference of 8 points. 
-    - These temperatures may be too low to go surfing at this time, however, the ice cream business would still be a success as it is not too cold. 
+    - These temperatures may be too low for some surfers to go surfing at this time, however, the ice cream business would still be a success as it is not too cold. 
 
 ## Summary
-blah
-### Query 1:
-blah
+The temperatures of the peak summer month and peak winter month of the year in Hawaii shares that it stays warm almost all year round. The temperatures barely dip from the summer to winter which is promising for the business. The ice cream portion of the business would stay open all year round as it stays warm even in December at a nice 71 degrees. After some research, the average temperatures that most beginner surfers go surfing stays around 62-78 degrees which encompasses most of the year in Hawaii. However, more advanced surfers are able to go in the watter at temperatures even as low as 50 degrees and with Hawaii being a popular surf spot where many grew up surfing, it is safe to assume that we will still have customers coming in the winter months for surf gear as well. It would be wise to open a surfing/ice cream shop here as all the data points to a viable environment for this business to thrive. 
+
+I did want to look at some additonal queries to ensure the other data points positvely towards this venture. Starting off with percipitation data in the area.
+
+### Query 1: Percipitation in June and December
+![June_Prcp](https://user-images.githubusercontent.com/105755095/182952042-5ee1bfe2-bb3f-4881-af83-d273241020ea.png)
+![December_Prcp](https://user-images.githubusercontent.com/105755095/182952053-4d3dd77e-c8bc-4825-b1d7-ade5ff8cdd91.png)
+
+From these statistics we can see that the average amount of rain is close to 0 during both months which is promosing. The medians for both months are also close to 0 which lets us infer that there are not many outliars of extreme data skewing this summary. Even at the 75% marker, both months have less than .2 in of rain. The max rain is at 4 and 6 in. for June and December respectively, but because the other data points of averages and standard deviation is so low, these high points are most likely just extreme weather chances which occur naturally. From the precipitation data, this business venture still seesm promosing. 
 
 ### Query 2: 
