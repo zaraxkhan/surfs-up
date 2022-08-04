@@ -31,4 +31,10 @@ I did want to look at some additonal queries to ensure the other data points pos
 
 From these statistics we can see that the average amount of rain is close to 0 during both months which is promosing. The medians for both months are also close to 0 which lets us infer that there are not many outliars of extreme data skewing this summary. Even at the 75% marker, both months have less than .2 in of rain. The max rain is at 4 and 6 in. for June and December respectively, but because the other data points of averages and standard deviation is so low, these high points are most likely just extreme weather chances which occur naturally. From the precipitation data, this business venture still seems promising. 
 
-### Query 2: 
+### Query 2: Charts of Percipitation and Temperature
+To better visualize and help the board understand the temperatures and percipitation more clearly for the months of June and December, I have created histogram charts of the data points as seen below. 
+
+#### June Data vs. December Data
+![June_graphs](https://user-images.githubusercontent.com/105755095/182955710-eb3c71fa-adc8-412e-86d0-699419e37f7f.png)
+![December_graphs](https://user-images.githubusercontent.com/105755095/182955712-cb06b418-c793-4a52-9a8b-13b1ba47662d.png)
+
