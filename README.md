@@ -38,3 +38,9 @@ To better visualize and help the board understand the temperatures and percipita
 ![June_graphs](https://user-images.githubusercontent.com/105755095/182955710-eb3c71fa-adc8-412e-86d0-699419e37f7f.png)
 ![December_graphs](https://user-images.githubusercontent.com/105755095/182955712-cb06b418-c793-4a52-9a8b-13b1ba47662d.png)
 
+From these graphs we can see something very promising. The percipitation data, just as we had assumed from the summary statistics, is largely at the 0 in. of rain. This is great news for the business as fewer rainy days in these months. However, after some research regarding the seasons of Hawaii, the wettest months are actually November through March. Because of this information, I went ahead and made visualizattions of the perceipitation for those two months and below are the results. 
+
+![Nov_rain](https://user-images.githubusercontent.com/105755095/182956744-7cdfb7e5-720c-4208-aaa4-f19a0957aeac.png)
+![March_rain](https://user-images.githubusercontent.com/105755095/182956758-786018bf-5239-4e5e-bcd1-6db88cd26464.png)
+
+And we are met with good news again! For most days of either of those months, there is 0 in of rain. The business venture from all the information we found seems to all point towards this venture being a success!
