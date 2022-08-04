@@ -15,9 +15,10 @@ There are some key differences in weather in the month of June and December. I h
 
 - The average temperature for for each month differentiates about 4 degrees. 
     - June has an average temperature of 74.9 while December's average temperature is 71 degrees Fahrenheit. 
--Both months average temperature is very close if not the same to the mean temperature for each month, concluding that the temperature does not frequently go out from this range and that there are no outliars of weather points skewing the data.
+- Both months' average temperatures are very close if not the same to the mean temperature for each month. We can make the conclusion that the temperature does not frequently go out from this range and that there are no outliars of weather points skewing the data.
     - Due to this, it is safe to assume that the temperature does not go through extremes in these two months.
--
+- The minimum temperature in June is 64 degrees while in December it is 56 degrees Fahrenheit. That is a large difference of 8 points. 
+    - These temperatures may be too low to go surfing at this time, however, the ice cream business would still be a success as it is not too cold. 
 
 ## Summary
 blah
