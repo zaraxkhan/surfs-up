@@ -13,7 +13,8 @@ There are some key differences in weather in the month of June and December. I h
 ![June_temps](https://user-images.githubusercontent.com/105755095/182946442-545d7127-76b9-404a-bdc5-f557b27f4552.png)
 ![December_temps](https://user-images.githubusercontent.com/105755095/182946460-521cf78f-4092-4313-a98a-0f417a73b49e.png)
 
--
+- The average temperature for for each month differentiates about 4 degrees. 
+    -- June has an average temperature of 74.9 while December's average temperature is 71 degrees Fahrenheit. 
 -
 -
 
